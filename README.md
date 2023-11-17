@@ -1,2 +1,2 @@
 # threejs
-My three.js learning Path.
+Three.js learning.
