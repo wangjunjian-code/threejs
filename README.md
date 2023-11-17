@@ -1,2 +1,2 @@
 # threejs
-Three.js learning.
+three.js learning.
